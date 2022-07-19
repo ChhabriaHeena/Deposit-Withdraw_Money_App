@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Deposit-Withdraw_Money_App/static/css/main.073c9b0a.css",
+    "main.js": "/Deposit-Withdraw_Money_App/static/js/main.390f4408.js",
+    "static/js/787.5e676c17.chunk.js": "/Deposit-Withdraw_Money_App/static/js/787.5e676c17.chunk.js",
+    "index.html": "/Deposit-Withdraw_Money_App/index.html",
+    "main.073c9b0a.css.map": "/Deposit-Withdraw_Money_App/static/css/main.073c9b0a.css.map",
+    "main.390f4408.js.map": "/Deposit-Withdraw_Money_App/static/js/main.390f4408.js.map",
+    "787.5e676c17.chunk.js.map": "/Deposit-Withdraw_Money_App/static/js/787.5e676c17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.390f4408.js"
+  ]
+}
